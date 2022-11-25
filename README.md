@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/107203586/204011573-60f53e62-06be-4355
 
 ## Links
 
-- Live Site URL: [https://dev-evelin-memepicker.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://dev-evelin-landing-page-lewagon.netlify.app](https://your-live-site-url.com)
 
 ## Connect with me::
 
