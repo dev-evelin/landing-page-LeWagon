@@ -1,7 +1,7 @@
 # Landing Page Le Wagon
 
 Project from Le Wagon London Web Development Sprint where we built a Landing Page with HTML, CSS, and Javascript.
-[https://www.lewagon.com//]
+https://www.lewagon.com//
 
 ##
 
@@ -10,10 +10,16 @@ Project from Le Wagon London Web Development Sprint where we built a Landing Pag
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## Preview
+![Preview](https://user-images.githubusercontent.com/107203586/204003766-5625b620-47f9-4432-8dc3-a184a8297758.png)
 
-![preview](https://user-images.preview.png)
-
+ 
 ## Video
+
+
+https://user-images.githubusercontent.com/107203586/204011573-60f53e62-06be-4355-ad1a-7643d4c385bc.mp4
+
+
+
 
 ## Links
 
